@@ -1,2 +1,1 @@
-# readme-precedence-test
-Which README does github prefer?
+# This is README.md in /
