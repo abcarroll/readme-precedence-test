@@ -13,3 +13,11 @@ precedence any, but I don't believe so.
 - AB
 
 (PS Anything here is public domain)
+
+## Other formats
+
+Note: there are a ton of formats.  Check
+
+https://github.com/github/markup#markups
+
+for hints.
